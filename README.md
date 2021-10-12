@@ -191,3 +191,7 @@ as likely your distro does not have it in repos. If you use arch, like I do, its
 * [SelfhostedPro](https://github.com/SelfhostedPro/selfhosted_templates)
 * [DoTheEvo](https://github.com/DoTheEvo/selfhosted-apps-docker)
 * [kha7iq](https://github.com/kha7iq/selfhosted)
+
+### Other App Lists
+
+* [Web Crawlers](https://github.com/BruceDone/awesome-crawler)
