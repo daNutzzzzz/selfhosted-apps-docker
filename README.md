@@ -195,3 +195,4 @@ as likely your distro does not have it in repos. If you use arch, like I do, its
 ### Other App Lists
 
 * [Web Crawlers](https://github.com/BruceDone/awesome-crawler)
+* [Honeypots](https://github.com/paralax/awesome-honeypots)
