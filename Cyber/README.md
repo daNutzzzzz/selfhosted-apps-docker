@@ -1,19 +1,18 @@
 # Selfhosted-Apps-Docker
 
-###### guide-by-example
+---
+
+![logo](images/cybersecurity.png)
 
 ---
 
-![logo](https://i.imgur.com/u5LH0jI.png)
-
----
-
-## WebCrawlers
+### WebCrawlers
 * [Web Crawlers](https://github.com/BruceDone/awesome-crawler)
-### Articles
+#### Articles
 ---
-## Honeypots
+
+### Honeypots
 * [Docker Images](https://github.com/paralax/awesome-honeypots)
-### Articles
+#### Articles
 * https://appfleet.com/blog/compromised-container-detection-with-honeypot-containers/
 ---
