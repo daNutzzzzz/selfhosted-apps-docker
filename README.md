@@ -35,6 +35,9 @@
 * [wireguard](wireguard/) - the one and only VPN to ever consider
 * [arch_linux_host_install](arch_linux_host_install)
 
+
+## [Cyber](Cyber/README.md)
+
 # How to self host various services
 
 You do need to have **basic linux and basic docker-compose knowledge**,
@@ -192,7 +195,4 @@ as likely your distro does not have it in repos. If you use arch, like I do, its
 * [DoTheEvo](https://github.com/DoTheEvo/selfhosted-apps-docker)
 * [kha7iq](https://github.com/kha7iq/selfhosted)
 
-### Cyber
 
-* [Web Crawlers](https://github.com/BruceDone/awesome-crawler)
-* [Honeypots](https://github.com/paralax/awesome-honeypots)
