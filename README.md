@@ -187,12 +187,3 @@ as likely your distro does not have it in repos. If you use arch, like I do, its
 * Zoneminder - CCTV NVR
 
 ---
-
-### other selfhosted lists
-
-* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-* [SelfhostedPro](https://github.com/SelfhostedPro/selfhosted_templates)
-* [DoTheEvo](https://github.com/DoTheEvo/selfhosted-apps-docker)
-* [kha7iq](https://github.com/kha7iq/selfhosted)
-
-
