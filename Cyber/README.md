@@ -1,4 +1,4 @@
-# Selfhosted-Apps-Docker
+# Cyber
 
 ---
 
@@ -7,12 +7,12 @@
 ---
 
 ### WebCrawlers
-* [Web Crawlers](https://github.com/BruceDone/awesome-crawler)
+* [Awesome Crawler](https://github.com/BruceDone/awesome-crawler)
 #### Articles
 ---
 
 ### Honeypots
-* [Docker Images](https://github.com/paralax/awesome-honeypots)
+* [Awesome Honeypots](https://github.com/paralax/awesome-honeypots)
 #### Articles
 * https://appfleet.com/blog/compromised-container-detection-with-honeypot-containers/
 ---
